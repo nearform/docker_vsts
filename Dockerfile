@@ -1,4 +1,4 @@
-FROM nearform/golang:1.11-stretch
+FROM nearform/docker_golang:1.11-stretch
 # Adopted for VSTS/Azure from nearform/docker_circleci by Alex Knol
 LABEL maintainer igor.shmukler@nearform.com
 
